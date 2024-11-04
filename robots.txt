@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvimieda.github.io/CXi/sitemap_index.txt
+Sitemap: https://uvimieda.github.io/Flg/sitemap_index.txt
+Sitemap: https://uvimieda.github.io/asb/sitemap_index.txt
+Sitemap: https://uvimieda.github.io/eBs/sitemap_index.txt
